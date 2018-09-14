@@ -1,6 +1,6 @@
 ## Welcome to Professor Tim Sherwood's ERSP Group
 
-We are second year CS/CE undergraduates working in Professor Tim Sherwood's [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/). Our project is about ....
+We are second year CS/CE undergraduates working in Professor Sherwood's [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/). Our project is about ....
 
 
 * Dawit Aboye: Insert picture and write a few words about yourself
