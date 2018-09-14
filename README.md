@@ -18,7 +18,7 @@ We are second year CS/CE undergraduates working with Professor Tim Sherwood in t
 * Link to calendar:
 
 ## Project Docs
-All our project documents are available in the following private repositories. If you are a collaborator or mentor, and would like access to these repose, please contact: diba@ucsb.edu
+All our project documents are available in the following private repositories. If you are a collaborator or mentor, and would like access, please contact: diba@ucsb.edu
 
 ### Individual logs: 
 * [Dawit's log](https://github.com/ucsb-ersp-2018/arch-dawit-log.git)
