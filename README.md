@@ -22,7 +22,7 @@ Meeting with Dr. Mirza:
 Link to calendar:
 
 ## Project Docs
-All our project documents are available the following private repositories. For access please contact: diba@ucsb.edu
+All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu
 
 ### Individual logs: 
 * [Dawit's log](https://github.com/ucsb-ersp-2018/arch-dawit-log.git)
