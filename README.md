@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Professor Tim Sherwood's ERSP Group
 
-You can use the [editor on GitHub](https://github.com/test-ersp-site/test-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are second year CS/CE undergraduates working in Professor Tim Sherwood's [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/). Our project is about ....
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+* Dawit Aboye: Insert picture and write a few words about yourself
+![Dawit](pic) 
+* Dylan Kupsh
+* Jacqueline Mai
+* Maggie Lim 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Weekly Meeting Times
 
-# Header 1
-## Header 2
-### Header 3
+Research Group Meeting Times: TBD
 
-- Bulleted
-- List
+Meeting with Research Mentor: TBD
 
-1. Numbered
-2. List
+Meeting with ERSP Grad Mentor:
 
-**Bold** and _Italic_ and `Code` text
+Meeting with Dr. Mirza:
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/test-ersp-site/test-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Project Docs
+All our project documents are available in a private repository. For access please contact: diba@ucsb.edu
