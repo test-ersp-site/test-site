@@ -1,4 +1,4 @@
-## Welcome to Professor Tim Sherwood's ERSP Group
+## Welcome to Professor Sherwood's ERSP Group
 
 We are second year CS/CE undergraduates working in Professor Sherwood's [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/). Our project is about ....
 
