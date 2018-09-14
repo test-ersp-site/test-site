@@ -1,8 +1,8 @@
-# Welcome to Professor Sherwood's ERSP Group Site!
+# Welcome to Our ERSP Group Site!
 
 We are second year CS/CE undergraduates working with Professor Tim Sherwood in the [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/). Our project is about ....
 
-### About us
+### About Us
 * Dawit Aboye
 * Dylan Kupsh
 * Jacqueline Mai
@@ -30,4 +30,4 @@ All our project documents are available in the following private repositories. I
 
 * [Arch Group log](https://github.com/ucsb-ersp-2018/arch-group-log.git)
 
-### Project specific documents
+### Project Specific Documents
