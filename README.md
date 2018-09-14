@@ -2,9 +2,7 @@
 
 We are second year CS/CE undergraduates working with Professor Tim Sherwood in the [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/). Our project is about ....
 
-
-* Dawit Aboye: Write a few words about yourself
-![Dawit](pic) 
+* Dawit Aboye
 * Dylan Kupsh
 * Jacqueline Mai
 * Maggie Lim 
