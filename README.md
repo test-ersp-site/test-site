@@ -25,4 +25,12 @@ All our project documents are available the following private repositories. For 
 
 ### Individual logs: 
 * [Dawit's individual log](https://github.com/ucsb-ersp-2018/arch-dawit-log.git)
+* [Dylan's individual log](https://github.com/ucsb-ersp-2018/arch-dylan-log.git)
+* [Jacqui's individual log](https://github.com/ucsb-ersp-2018/arch-jacqui-log.git)
+* [Maggie's individual log](https://github.com/ucsb-ersp-2018/arch-maggie-log.git)
 
+### Group Log
+
+* [Arch Group log](https://github.com/ucsb-ersp-2018/arch-group-log.git)
+
+### Project specific documents
