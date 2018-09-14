@@ -2,6 +2,7 @@
 
 We are second year CS/CE undergraduates working with Professor Tim Sherwood in the [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/). Our project is about ....
 
+### About us
 * Dawit Aboye
 * Dylan Kupsh
 * Jacqueline Mai
@@ -18,7 +19,7 @@ Meeting with ERSP Grad Mentor:
 
 Meeting with Dr. Mirza:
 
-
+Link to calendar:
 
 ## Project Docs
 All our project documents are available the following private repositories. For access please contact: diba@ucsb.edu
