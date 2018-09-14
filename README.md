@@ -11,15 +11,11 @@ We are second year CS/CE undergraduates working with Professor Tim Sherwood in t
 
 ## Weekly Meeting Times
 
-Research Group Meeting Times: TBD
-
-Meeting with Research Mentor: TBD
-
-Meeting with ERSP Grad Mentor:
-
-Meeting with Dr. Mirza:
-
-Link to calendar:
+* Research Group Meeting Times: TBD
+* Meeting with Research Mentor: TBD
+* Meeting with ERSP Grad Mentor (May):
+* Meeting with Dr. Mirza:
+* Link to calendar:
 
 ## Project Docs
 All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu
