@@ -2,6 +2,14 @@
 
 We are second year CS/CE undergraduates working with Professor Tim Sherwood in the [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/) as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home). Our project is about ....
 
+### Research Mentors
+* Professor Tim Sherwood
+* Graduate student(s):
+
+### Cental Mentoring Team
+* Dr. Mirza
+* May El Sherief 
+
 ### About Us
 * Dawit Aboye
 * Dylan Kupsh
