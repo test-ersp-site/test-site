@@ -29,10 +29,10 @@ We are second year CS/CE undergraduates working with Professor Tim Sherwood in t
 All our project documents are available in the following private repositories. If you are a collaborator or mentor, and would like access, please contact: diba@ucsb.edu
 
 ### Individual logs: 
-* [Dawit's log](https://github.com/ucsb-ersp-2018/arch-dawit-log.git)
-* [Dylan's log](https://github.com/ucsb-ersp-2018/arch-dylan-log.git)
+* [Dawit's log](https://github.com/ucsb-ersp-2018/arch-dawita-research-log)
+* [Dylan's log](https://github.com/ucsb-ersp-2018/arch-dylank-research-log)
 * [Jacqui's log](https://github.com/ucsb-ersp-2018/arch-jacquim-research-log)
-* [Maggie's log](https://github.com/ucsb-ersp-2018/arch-maggie-log.git)
+* [Maggie's log](https://github.com/ucsb-ersp-2018/arch-maggiel-research-log)
 
 ### Group Log
 
