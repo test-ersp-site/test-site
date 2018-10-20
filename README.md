@@ -20,8 +20,8 @@ We are second year CS/CE undergraduates working with Professor Tim Sherwood in t
 ## Weekly Meeting Times
 
 * Research Group Meeting Times: Wednesdays 1:00pm-3:00pm, UCSB Library
-* Meeting with Research Mentor: TBD
-* Meeting with ERSP Grad Mentor (May):
+* Meeting with Research Mentor: Fridays 11:00am, ArchLab (HFH 5120A)
+* Meeting with ERSP Grad Mentor (May): Friday 8:00-8:30am, Location TBA
 * Meeting with Dr. Mirza:
 * Link to calendar:
 
