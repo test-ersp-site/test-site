@@ -39,3 +39,5 @@ All our project documents are available in the following private repositories. I
 * [Arch Group log](https://github.com/ucsb-ersp-2018/arch-group-log.git)
 
 ### Project Specific Documents
+
+* [Group Research Session Brainstorm] (https://docs.google.com/document/d/1ifnA9w79TrWeBvpCQdtK-HrUjBmW0TXQeJbdEmBC3uQ/edit?usp=sharing)
