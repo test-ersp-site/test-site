@@ -40,4 +40,4 @@ All our project documents are available in the following private repositories. I
 
 ### Project Specific Documents
 
-* [Group Research Session Brainstorm] (https://docs.google.com/document/d/1ifnA9w79TrWeBvpCQdtK-HrUjBmW0TXQeJbdEmBC3uQ/edit?usp=sharing)
+* [Group Research Session Brainstorm](https://docs.google.com/document/d/1ifnA9w79TrWeBvpCQdtK-HrUjBmW0TXQeJbdEmBC3uQ/edit?usp=sharing)
