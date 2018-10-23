@@ -6,7 +6,7 @@ We are second year CS/CE undergraduates working with Professor Tim Sherwood in t
 * Professor Tim Sherwood
 * Graduate student(s):
 
-### Cental Mentoring Team
+### Central Mentoring Team
 * Dr. Mirza
 * May El Sherief 
 
@@ -34,9 +34,6 @@ All our project documents are available in the following private repositories. I
 * [Jacqui's log](https://github.com/ucsb-ersp-2018/arch-jacquim-research-log)
 * [Maggie's log](https://github.com/ucsb-ersp-2018/arch-maggiel-research-log)
 
-### Group Log
-
-* [Arch Group log](https://github.com/ucsb-ersp-2018/arch-group-log.git)
 
 ### Project Specific Documents
 
