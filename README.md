@@ -36,5 +36,7 @@ All our project documents are available in the following private repositories. I
 
 
 ### Project Specific Documents
+* [Shared ERSP Proposal Work Folder](https://drive.google.com/drive/folders/1TNXCO44omkWR_bspbvrR-L-IRbbHNyIT?usp=sharing)
+  * Proposal draft can be found in folder or accessed directly [here](https://docs.google.com/document/d/1NtnBFITa6Ke4o8RgGf8aNSrDqt5ETtvDzPOaPRf7aXg/edit?usp=sharing)
 
 * [Group Research Session Brainstorm](https://docs.google.com/document/d/1ifnA9w79TrWeBvpCQdtK-HrUjBmW0TXQeJbdEmBC3uQ/edit?usp=sharing)
