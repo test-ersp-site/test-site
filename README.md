@@ -7,7 +7,7 @@ We are second year CS/CE undergraduates working with Professor Tim Sherwood in t
 * PhD Student: Deeksha Dangwal
 
 ### Central Mentoring Team
-* Dr. Mirza
+* Professor Diba Mirza
 * May El Sherief 
 
 ### About Us
